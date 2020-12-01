@@ -3,10 +3,19 @@ header {
     text-align: center;
 }
 
+.div_1 {
+    width: 50%;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+.div_2 {
+    flex-direction: column;
+}
+
 #themain {
+    display: inline;
     border-top: 30px solid lightblue;
-    width: 40%;
-    margin-left: 10em;
 }
 
 main h1 {
