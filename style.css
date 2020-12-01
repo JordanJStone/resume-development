@@ -1,0 +1,26 @@
+header {
+    background-color: rgb(22, 22, 173);
+    text-align: center;
+}
+
+#themain {
+    border-top: 30px solid lightblue;
+    width: 50%;
+}
+
+main h1 {
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+
+header h1 {
+    color:white;
+}
+
+footer {
+    border-style: solid;
+    background-color: rgb(22, 22, 173);
+}
