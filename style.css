@@ -1,16 +1,18 @@
 header {
     background-color: rgb(56, 56, 207);
     text-align: center;
+    border: .15em solid black;
 }
 
 .div_1 {
     width: 50%;
     flex-direction: row;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
 }
 
 .div_2 {
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 #themain {
